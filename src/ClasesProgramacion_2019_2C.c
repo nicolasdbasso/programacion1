@@ -12,7 +12,6 @@
 #define CANTIDAD_NUMEROS 5
 #define RETORNO_EXITOSO 0
 
-
 int maximoYminimo (int cantidad, int* maximo, int* minimo);
 int main(void)
 {
